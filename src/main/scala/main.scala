@@ -1,6 +1,6 @@
  @main
   def main(): Unit = {
-   val str ="1+2+3+4+5"
+   val str ="11+2"
    println(s"The string:         $str")
    // tokenize the input string
    val tokens=tokenize(str)
